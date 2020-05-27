@@ -1,0 +1,78 @@
+#roombox{
+    z-index: 100;
+    margin-top:900px ;
+    width:720px ;
+    height: 585px;
+    background: #8fd19e;
+    overflow: scroll;
+}
+#box{
+    z-index: 50;
+}
+
+.hoteldiv{
+    display: inline-block;
+    height: 200px;
+    width: 720px;
+    border: black;
+    border-style: solid;
+}
+.hoteldiv_1{
+    float: left;
+    width: 200px;
+    height: 200px;
+}
+.hoteldiv_1_1{
+    background: #0a6cd6;margin: 25px;height: 150px;
+}
+.hoteldiv_2{
+    float: left;
+    width: 320px;
+    height: 200px;
+}
+.hoteldiv_2_1{
+    padding: 5px;
+    font-size: 25px;
+    width: 320px;
+    height: 66.6px;
+}
+.hoteldiv_2_2{
+    padding: 5px;
+    font-size: 20px;
+    width: 320px;
+    height: 66.6px;
+}
+.hoteldiv_2_3{
+    padding: 5px;
+    font-size: 15px;
+    width: 320px;
+    height: 66.6px;
+}
+.hoteldiv_3{
+    float: left;
+    width: 200px;
+    height: 200px;
+}
+.hoteldiv_3_1{
+    margin-top: 50px;
+    width: 150px;
+    height: 70px;
+    border: red;
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 1px;
+}
+.hoteldiv_3_1_1{
+    width: 150px;
+    height: 45px;
+    background: red;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    color: white;
+    font-size: 20px;
+    line-height: 45px;
+}
+.hoteldiv_3_1_2{
+    color: red;
+    line-height: 25px;
+}
